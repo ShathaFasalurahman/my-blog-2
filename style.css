@@ -1,0 +1,30 @@
+#profile{
+  border-radius: 50%;
+  width: 100px;
+}
+body{
+  text-align: center;
+  background: linear-gradient( #E1BEE7 0%,#90CAFEE9 100%);
+}
+h1{
+  color: #0D47A1;
+  font-family: 'Grey Qo', cursive;
+}
+h2{
+  color: purple;
+   font-family: Lora, sans-serif;
+}
+h3{
+  color: #C51162;
+}
+.menu{
+    list-style: none;
+    font-family: 'Bonheur Royale', cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: darkblue;
+    font-size: 36px;
+    
+}
