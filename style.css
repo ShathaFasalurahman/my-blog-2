@@ -14,7 +14,7 @@ h2{
   color: purple;
    font-family: Lora, sans-serif;
 }
-h3{
+h4{
   color: #C51162;
 }
 .menu{
@@ -27,4 +27,8 @@ h3{
     color: darkblue;
     font-size: 36px;
     
+}
+h3{
+    font-family: 'Pacifico', cursive;
+    color: darkred;
 }
