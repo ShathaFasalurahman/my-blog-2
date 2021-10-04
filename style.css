@@ -4,18 +4,18 @@
 }
 body{
   text-align: center;
-  background: linear-gradient( #E1BEE7 0%,#90CAFEE9 100%);
+  background-image: linear-gradient(pink, skyblue);
 }
 h1{
-  color: #0D47A1;
-  font-family: 'Grey Qo', cursive;
+  color: darkred;
+    font-family: cursive;
 }
 h2{
-  color: purple;
-   font-family: Lora, sans-serif;
+ color: darkmagenta;
+ font-family: sans-serif; 
 }
 h4{
-  color: #C51162;
+ color: darkblue;
 }
 .menu{
     list-style: none;
@@ -24,11 +24,11 @@ h4{
     top: 10px;
     right: 30px;
     cursor: pointer;
-    color: darkblue;
+    color: crimson;
     font-size: 36px;
     
 }
 h3{
     font-family: 'Pacifico', cursive;
-    color: darkred;
+    color: darkslateblue;
 }
