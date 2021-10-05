@@ -20,7 +20,7 @@ h4{
 .menu{
     list-style: none;
     font-family: 'Bonheur Royale', cursive;
-    float: right;
+    float: left;
     top: 10px;
     right: 30px;
     cursor: pointer;
